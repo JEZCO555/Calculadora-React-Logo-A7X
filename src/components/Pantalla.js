@@ -1,5 +1,6 @@
 import '../stylesheets/Pantalla.css'
-const Pantalla = ( {input} ) => (
+
+const Pantalla = ({input}) => (
     <div className="input">
         {input}
     </div>
